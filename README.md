@@ -1,2 +1,2 @@
 # Lógica
-Mini projeto feito durante as aulas de lógica da UFCG  🤖
+Mini projeto feito com Alloy durante as aulas de lógica da UFCG  🤖
